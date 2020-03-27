@@ -10,7 +10,7 @@ Important timestamps in video:
 This installation guide was provided by FenixEdu to run localhost server:  
 https://confluence.fenixedu.org/display/ACADEMIC/Installation
 
-Proper dependency versions were located through the issue tracker on JIRA here:  
+Proper dependency versions for the pom.xml were located through the issue tracker on JIRA here:  
 https://jira.fenixedu.org/browse/ACADEMIC
 
 To run this Docker image:
