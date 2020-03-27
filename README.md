@@ -1,4 +1,4 @@
-#FenidEdu Docker Image
+# FenidEdu Docker Image
 
 This installation guide was provided by FenixEdu to run localhost server:
 https://confluence.fenixedu.org/display/ACADEMIC/Installation
